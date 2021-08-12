@@ -1,0 +1,20 @@
+/*colors 
+ white : #fff
+ light-blue: #a9ccf4
+ dark-blue: #336fb9
+ yellow: #f5a622
+*/
+header{
+    background-color: #a9ccf4;
+    color: #f5a622;
+    text-align: center;
+    position: relative;
+}
+.searchForm {
+    background-color: #336fb9;
+    color: #fff;
+}
+#searchBtn {
+    width:100px;
+    background-image:url("images/search-icon-png-9985.png") ;
+}

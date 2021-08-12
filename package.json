@@ -1,0 +1,23 @@
+{
+  "name": "fli_infographdatabase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aerhabor/FLI_infographdatabase.git"
+  },
+  "author": "{ \"name\" : \"Aimuan Erhabor\" }",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aerhabor/FLI_infographdatabase/issues"
+  },
+  "homepage": "https://github.com/Aerhabor/FLI_infographdatabase#readme",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.14.0",
+    "express": "^4.17.1"
+  }
+}
